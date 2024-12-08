@@ -4,7 +4,7 @@ import threading
 import queue
 import time
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1315292113054990376/J5w57KA87n9cItY-JwbeDi5GZDTwxk1_5mVHyrhLnHSoB8fwSuzXcnaSF-s2dhaPgiyy"
+WEBHOOK_URL = "ADD_YOUR_SERVER_WEBHOOK_HERE"
 
 key_queue = queue.Queue()
 
